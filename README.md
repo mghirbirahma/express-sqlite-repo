@@ -3,6 +3,16 @@
 ## Description
 
 Ce projet implémente un pipeline automatisé pour extraire le code source d'une application web à partir d'une image Docker, puis le transférer vers un dépôt GitHub. L'application web utilise Express et SQLite.
+git pull origin main
+
+## Screenshots
+
+![Screenshot 2](capture/2.png)
+![Screenshot 3](capture/3.png)
+![Screenshot 4](capture/4.png)
+![Screenshot 5](capture/5.png)
+![Screenshot 6](capture/6.png)
+
 
 ## Exécution du Pipeline
 
@@ -101,3 +111,4 @@ Ce projet est sous licence MIT.
 
 
 Assurez-vous de personnaliser ces informations en fonction de votre propre projet. Cela inclut les commandes spécifiques pour extraire l'image depuis Docker Hub, créer un conteneur local, le supprimer, et cloner le dépôt GitHub.
+ 
